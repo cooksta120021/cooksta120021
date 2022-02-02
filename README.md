@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cooksta120021
-- 👀 I’m interested in Front and Back end
-- 🌱 I’m currently learning Back-End
+- 👀 I’m interested in Python Django Projects
+- 🌱 Always expanding the languages
 - 💞️ I’m looking to collaborate on react.js or django/python projects
 - 📫 How to reach me cooksta120021@gmail.com
 
